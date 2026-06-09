@@ -1,7 +1,7 @@
 # C-12_and_.NET8_Practice_code
 Text book exercise and practice code
 
-
+## Writing code using Visual Studio 2022
 Open the Project Folder
 Bash
 cd HelloCSharp
@@ -47,15 +47,16 @@ dotnet new list
 View available project templates
 Typical Workflow
 Bash
-# Open project folder
+### Open project folder
 cd HelloCSharp
 
-# Create a console app
+### Create a console app
 dotnet new console
 
-# Build the project
+### Build the project
 dotnet build
 
-# Run the project
+### Run the project
 dotnet run
 This is the basic .NET development workflow: create → build → run.
+
