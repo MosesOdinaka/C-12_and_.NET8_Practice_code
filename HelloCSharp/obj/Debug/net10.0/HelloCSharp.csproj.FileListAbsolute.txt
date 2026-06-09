@@ -1,0 +1,15 @@
+/data/data/com.termux/files/home/C-12_and_.NET8_Practice_code/HelloCSharp/bin/Debug/net10.0/HelloCSharp
+/data/data/com.termux/files/home/C-12_and_.NET8_Practice_code/HelloCSharp/bin/Debug/net10.0/HelloCSharp.deps.json
+/data/data/com.termux/files/home/C-12_and_.NET8_Practice_code/HelloCSharp/bin/Debug/net10.0/HelloCSharp.runtimeconfig.json
+/data/data/com.termux/files/home/C-12_and_.NET8_Practice_code/HelloCSharp/bin/Debug/net10.0/HelloCSharp.dll
+/data/data/com.termux/files/home/C-12_and_.NET8_Practice_code/HelloCSharp/bin/Debug/net10.0/HelloCSharp.pdb
+/data/data/com.termux/files/home/C-12_and_.NET8_Practice_code/HelloCSharp/obj/Debug/net10.0/HelloCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/data/data/com.termux/files/home/C-12_and_.NET8_Practice_code/HelloCSharp/obj/Debug/net10.0/HelloCSharp.AssemblyInfoInputs.cache
+/data/data/com.termux/files/home/C-12_and_.NET8_Practice_code/HelloCSharp/obj/Debug/net10.0/HelloCSharp.AssemblyInfo.cs
+/data/data/com.termux/files/home/C-12_and_.NET8_Practice_code/HelloCSharp/obj/Debug/net10.0/HelloCSharp.csproj.CoreCompileInputs.cache
+/data/data/com.termux/files/home/C-12_and_.NET8_Practice_code/HelloCSharp/obj/Debug/net10.0/HelloCSharp.sourcelink.json
+/data/data/com.termux/files/home/C-12_and_.NET8_Practice_code/HelloCSharp/obj/Debug/net10.0/HelloCSharp.dll
+/data/data/com.termux/files/home/C-12_and_.NET8_Practice_code/HelloCSharp/obj/Debug/net10.0/refint/HelloCSharp.dll
+/data/data/com.termux/files/home/C-12_and_.NET8_Practice_code/HelloCSharp/obj/Debug/net10.0/HelloCSharp.pdb
+/data/data/com.termux/files/home/C-12_and_.NET8_Practice_code/HelloCSharp/obj/Debug/net10.0/HelloCSharp.genruntimeconfig.cache
+/data/data/com.termux/files/home/C-12_and_.NET8_Practice_code/HelloCSharp/obj/Debug/net10.0/ref/HelloCSharp.dll
